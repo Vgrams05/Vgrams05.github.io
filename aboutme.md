@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Just Hanging with the nerds
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Virgina Grams. I have the following qualities:
 
-- I rock a great mustache
 - I'm extremely loyal to my family
+- I am kind to all
+- been told I have a heart of gold
+- I come from a large and diverse family
 
-What else do you need?
+
+#### What I like to do for fun
+
+>I do medieval foam fighting and I have been doing it for about 8 years. I am a huge a animal lover and one day would love to own a farm to rescue animals. I enjoy all kind of sci-fi, fantasy, and anime type of fandoms. Also a huge disney fan.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+As I said I come from a large family. I have experienced alot of things that may have brought me down but I will always get right back up. I have lived all around Orange, CA but I have traveled up and down California and some other states. Over all I have enjoyed my life and plan to continue finding me and my path.
