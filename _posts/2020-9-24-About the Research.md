@@ -23,7 +23,7 @@ share-img:
 # Diving into my Research
 
 ---
->Starting my research with this simple graph explaining the difference in levels of three main and important subjects in Gestational Diabetes. My range for age is ages 50 to 20 and amount of pregnancies is up to 16.
+>Starting my research with this simple graph explaining the difference in levels of three main and important subjects in Gestational Diabetes. My range for age is ages 20 to 50 and amount of pregnancies is up to 16.
 
 ---
 _#1_
@@ -40,4 +40,4 @@ _#2_
 ---
 
 # In Conclusion
-> Within the battle of Diabetes I can tell you it is not easy and especially being pregnant it can be dangerous but I know it is still something achievable.
+> Within the battle of Diabetes I can tell you it is not easy and especially being pregnant it can be dangerous but I know being diabetic and pregnant is still something achievable.
