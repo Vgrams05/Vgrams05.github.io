@@ -13,8 +13,8 @@ share-img:
 
   >In the 1950s many risk factors for the development of abnormalities in carbohydrate metabolism in pregnancy were defined and the term gestational diabetes mellitus (GDM) became accepted. Soon after, screening programs were proposed for the early detection of diabetes in pregnancy.
 
-
 #Why I picked this Subject
+
 ---
 
 >I picked this subject as it is a personal subject to me. I was diagnosed with Type2 Diabetes at the age of 19. My mother was also diagnosed with Gestational Diabetes when she was pregnant with my eldest brother. As a disease that runs deep in my dads side of the family as well I picked this due to curiousty and gaining the further knowlegde about this subject and Diabetes in general. 
