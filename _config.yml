@@ -40,7 +40,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "virginia.grams@yahoo.com"
-  facebook: Virginia Paige Grams
+  facebook: virginia.grams
   github: Vgrams05
 #  reddit: yourname
 #  linkedin: daattali
@@ -95,12 +95,12 @@ feed_show_tags: true
 navbar-col: "#fdc1c5" 
 navbar-text-col: "#4b0101"
 navbar-border-col: "#000000"
-page-col: "#c1c6fc"
-text-col: "#042e60"
+page-col: "#e4cbff"
+text-col: "#380282"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#fdc1c5"
-footer-text-col: "#4b0101"
+footer-col: "#014d4e"
+footer-text-col: "#c6f7fd"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
