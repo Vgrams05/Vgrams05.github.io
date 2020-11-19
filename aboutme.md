@@ -14,7 +14,7 @@ My name is Virgina Grams. I have the following qualities:
 
 #### What I like to do for fun
 
->I do medieval foam fighting and I have been doing it for about 8 years. I am a huge a animal lover and one day would love to own a farm to rescue animals. I enjoy all kind of sci-fi, fantasy, and anime type of fandoms. Also a huge disney fan.
+I do medieval foam fighting and I have been doing it for about 8 years. I am a huge a animal lover and one day would love to own a farm to rescue animals. I enjoy all kind of sci-fi, fantasy, and anime type of fandoms. Also a huge disney fan.
 
 ## My story
 
