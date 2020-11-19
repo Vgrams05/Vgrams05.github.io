@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Dengue Research
-subtitle: What is the volume of the Dengue strains?
+subtitle: **What is the volume of the Dengue strains?**
 cover-img: assets/img/dengue-.jpg
 thumbnail-img: assets/img/dengue_virus.jpg
 share-img: 
  
 ---
 
-# What is Dengue?
+# **What is Dengue?**
 
 
  **Dengue viruses are spread to people through the bite of an infected Aedes species 
