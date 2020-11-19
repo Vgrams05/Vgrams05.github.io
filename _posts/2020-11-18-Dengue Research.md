@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dengue Research
-subtitle: **What is the volume of the Dengue strains?**
+subtitle: What is the volume of the Dengue strains?
 cover-img: assets/img/dengue-.jpg
 thumbnail-img: assets/img/dengue_virus.jpg
 share-img: 
