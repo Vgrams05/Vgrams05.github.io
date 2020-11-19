@@ -20,5 +20,4 @@ share-img:
 ---
 
 
-![Showcasing the volume of Dengue strains based on the start of the week]
-(assets/img/denv-graph_1.png)
+![Showcasing the volume of Dengue strains based on the start of the week](assets/img/denv-graph_1.png)
