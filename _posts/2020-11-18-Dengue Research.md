@@ -7,10 +7,6 @@ thumbnail-img: assets/img/dengue_virus.jpg
 feature_img: https://github.com/Vgrams05/vgrams05.github.io/blob/master/assets/img/denv-graph_1.png
 share-img: 
 
-{% for post in site.posts %}
-  <img src="{% post.feature_img %}" />
-{% endfor %}
-```
 ---
 
 # **What is Dengue?**
