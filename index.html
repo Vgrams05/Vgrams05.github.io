@@ -3,3 +3,7 @@ layout: home
 
 title: This website is designed to showcase my projects.
 ---
+{% for post in site.posts %}
+  <img src="{% post.feature_img %}" />
+{% endfor %}
+```
