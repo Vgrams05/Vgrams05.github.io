@@ -21,4 +21,4 @@ share-img: assets/img/denv-graph_1.png
 
 **In this graph below it represents the different serotypes from when the week started from April 4TH 1990 to June 6th 2008. You can tell here that the first three serotypes have a wide range of activity but the 'Denv4' serotype seems to have spiked near the 2008 to 2009. You can also see that 'Denv3' cases didnt start activity till about 1998.**
 
-![Showcasing the differnces of serotypes for Dengue](assets/img/denv-graph_1.png)
+![Showcasing the differnces of serotypes for Dengue](/repo/assets/img/denv-graph_1.png)
