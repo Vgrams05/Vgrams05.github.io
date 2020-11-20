@@ -4,7 +4,6 @@ title: Dengue Research
 subtitle: What is the volume of the Dengue strains?
 cover-img: assets/img/dengue-.jpg
 thumbnail-img: assets/img/dengue_virus.jpg
-feature_img: https://github.com/Vgrams05/vgrams05.github.io/blob/master/assets/img/denv-graph_1.png
 share-img: 
 
 ---
