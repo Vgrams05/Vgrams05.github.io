@@ -21,3 +21,7 @@ share-img:
 
 
 ![Showcasing the volume of Dengue strains based on the start of the week](https://github.com/Vgrams05/vgrams05.github.io/blob/master/assets/img/denv-graph_1.png)
+
+{% for post in site.posts %}
+  <img src="{% post.https://github.com/Vgrams05/vgrams05.github.io/blob/master/assets/img/denv-graph_1.png %}" />
+{% endfor %}
