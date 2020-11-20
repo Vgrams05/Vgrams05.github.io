@@ -15,15 +15,10 @@ share-img:
 
 # **What is Dengue?**
 
+**Dengue viruses are spread to people through the bite of an infected Aedes species(Ae. aegypti or Ae. albopictus) mosquito. Dengue is common in more than 100 countries around the world. Forty percent of the world’s population, about 3 billion people, live in areas with a risk of dengue. Dengue is often a leading cause of illness in areas with risk**[CDC DENGUE](https://www.cdc.gov/Dengue/)
 
- **Dengue viruses are spread to people through the bite of an infected Aedes species 
- (Ae. aegypti or Ae. albopictus) mosquito. Dengue is common in more than 100
- countries around the world. Forty percent of the world’s population, about 3 billion people, 
- live in areas with a risk of dengue. Dengue is often a leading cause 
- of illness in areas with risk**[CDC DENGUE](https://www.cdc.gov/Dengue/)
- 
-**Dengue outbreaks are occurring in many countries of the world. Currently, dengue cases are on the rise in the Caribbean.
-Most dengue infections are asymptomatic; however, when symptomatic, the virus can cause mild dengue fever (DF), or more severe forms of the disease, including dengue hemorrhagic fever (DHF), or dengue shock syndrome (DSS). Dengue in the Americas has an endemo-epidemic pattern with outbreaks every 3 to 5 years. In 1818, a dengue-like disease outbreak in Peru accounted for ∼50,000 cases.  During the following years epidemics were reported in the Virgin Islands; Puerto Rico (1915); Rio Grande do Sul, Brazil (1916); and Corrientes and Entre Rios, Argentina (1916). In 1918 an outbreak was reported in Galveston Texas, followed by another outbreak of larger proportions in 1922 with an estimated 30,000 cases of dengue-like disease.**[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3516305/)
+
+**Dengue outbreaks are occurring in many countries of the world. Currently, dengue cases are on the rise in the Caribbean.Most dengue infections are asymptomatic; however, when symptomatic, the virus can cause mild dengue fever (DF), or more severe    orms of the disease, including dengue hemorrhagic fever (DHF), or dengue shock syndrome (DSS). Dengue in the Americas has an   endemo-epidemic pattern with outbreaks every 3 to 5 years. In 1818, a dengue-like disease outbreak in Peru accounted for ∼50,000  cases.  During the following years epidemics were reported in the Virgin Islands; Puerto Rico (1915); Rio Grande do Sul, Brazil (1916); and Corrientes and Entre Rios, Argentina (1916). In 1918 an outbreak was reported in Galveston Texas, followed by another outbreak of larger proportions in 1922 with an estimated 30,000 cases of dengue-like disease.**[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3516305/)
 ---
 # **My project**
 
